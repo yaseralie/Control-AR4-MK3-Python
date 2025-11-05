@@ -6,6 +6,7 @@
   </a>
 </p>
 Click the image above to watch the video
+
 ## ☕ Support My Work
 If you find this project useful, consider supporting my work:  
 - [Donate $3](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=yaseralie@gmail.com&item_name=Support+My+Tech+Projects&currency_code=USD&amount=3)
